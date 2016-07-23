@@ -138,7 +138,7 @@
     {
       "stages": [
         {"number": "052", "name": "Meowth ", "candy": 0}, 
-        {"number": "053", "name": "Persion", "candy": 50}
+        {"number": "053", "name": "Persian", "candy": 50}
       ]
     },
     {
@@ -196,7 +196,7 @@
     {
       "stages": [
         {"number": "074", "name": "Geodude ", "candy": 0}, 
-        {"number": "075", "name": "Gravler", "candy": 25},
+        {"number": "075", "name": "Graveler", "candy": 25},
         {"number": "076", "name": "Golem", "candy": 100} 
       ]
     },
@@ -238,7 +238,7 @@
     {
       "stages": [
         {"number": "088", "name": "Grimer ", "candy": 0}, 
-        {"number": "089", "name": "Muck", "candy": 50}
+        {"number": "089", "name": "Muk", "candy": 50}
       ]
     },
     {
