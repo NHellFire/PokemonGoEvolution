@@ -323,6 +323,11 @@
     },
     {
       "stages": [
+        {"number": "114", "name": "Tangela ", "candy": 0}
+      ]
+    },
+    {
+      "stages": [
         {"number": "115", "name": "Kangaskhan ", "candy": 0}
       ]
     },
