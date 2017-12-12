@@ -330,7 +330,7 @@
       "stages": [
 		{"number": "440", "name": "Happiny", "candy": 0},
         {"number": "113", "name": "Chansey", "candy": 0},
-        {"number": "242", "name": "Blissey", "candy": 0}
+        {"number": "242", "name": "Blissey", "candy": 50}
       ]
     },
     {
@@ -348,7 +348,7 @@
       "stages": [
         {"number": "116", "name": "Horsea", "candy": 0},
         {"number": "117", "name": "Seadra", "candy": 50},
-        {"number": "230", "name": "Kingdra", "candy": 0}
+        {"number": "230", "name": "Kingdra", "candy": 100}
       ]
     },
     {
@@ -372,13 +372,13 @@
     {
       "stages": [
         {"number": "123", "name": "Scyther", "candy": 0},
-        {"number": "212", "name": "Scizor", "candy": 0}
+        {"number": "212", "name": "Scizor", "candy": 50}
       ]
     },
     {
       "stages": [
         {"number": "238", "name": "Smoochum", "candy": 0},
-        {"number": "124", "name": "Jynx", "candy": 0}
+        {"number": "124", "name": "Jynx", "candy": 25}
       ]
     },
     {
@@ -442,7 +442,7 @@
     {
       "stages": [
         {"number": "137", "name": "Porygon", "candy": 0},
-        {"number": "233", "name": "Porygon2", "candy": 0},
+        {"number": "233", "name": "Porygon2", "candy": 50},
 		{"number": "474", "name": "Porygon-Z", "candy": 0}
       ]
     },
@@ -531,25 +531,25 @@
 	{
       "stages": [
         {"number": "163", "name": "Hoothoot", "candy": 0},
-        {"number": "164", "name": "Noctowl", "candy": 0}
+        {"number": "164", "name": "Noctowl", "candy": 50}
       ]
     },
 	{
       "stages": [
         {"number": "165", "name": "Ledyba", "candy": 0},
-        {"number": "166", "name": "Ledian", "candy": 0}
+        {"number": "166", "name": "Ledian", "candy": 25}
       ]
     },
 	{
       "stages": [
         {"number": "167", "name": "Spinarak", "candy": 0},
-        {"number": "168", "name": "Ariados", "candy": 0}
+        {"number": "168", "name": "Ariados", "candy": 50}
       ]
     },
 	{
       "stages": [
         {"number": "170", "name": "Chinchou", "candy": 0},
-        {"number": "171", "name": "Lanturn", "candy": 0}
+        {"number": "171", "name": "Lanturn", "candy": 50}
       ]
     },
 	{
@@ -596,7 +596,7 @@
       "stages": [
         {"number": "060", "name": "Poliwag", "candy": 0},
         {"number": "061", "name": "Poliwhirl", "candy": 25},
-        {"number": "186", "name": "Politoed", "candy": 0}
+        {"number": "186", "name": "Politoed", "candy": 100}
       ]
     },
 	{
