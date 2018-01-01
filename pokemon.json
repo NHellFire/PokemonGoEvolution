@@ -839,48 +839,48 @@
 	{
       "stages": [
         {"number": "252", "name": "Treecko", "candy": 0},
-        {"number": "253", "name": "Grovyle", "candy": 0},
-        {"number": "254", "name": "Sceptile", "candy": 0}
+        {"number": "253", "name": "Grovyle", "candy": 25},
+        {"number": "254", "name": "Sceptile", "candy": 100}
       ]
     },
 	{
       "stages": [
         {"number": "255", "name": "Torchic", "candy": 0},
-        {"number": "256", "name": "Combusken", "candy": 0},
-        {"number": "257", "name": "Blaziken", "candy": 0}
+        {"number": "256", "name": "Combusken", "candy": 25},
+        {"number": "257", "name": "Blaziken", "candy": 100}
       ]
     },
 	{
       "stages": [
         {"number": "258", "name": "Mudkip", "candy": 0},
-        {"number": "259", "name": "Marshtomp", "candy": 0},
-        {"number": "260", "name": "Swampert", "candy": 0}
+        {"number": "259", "name": "Marshtomp", "candy": 25},
+        {"number": "260", "name": "Swampert", "candy": 100}
       ]
     },
 	{
       "stages": [
         {"number": "261", "name": "Poochyena", "candy": 0},
-        {"number": "262", "name": "Mightyena", "candy": 0}
+        {"number": "262", "name": "Mightyena", "candy": 50}
       ]
     },
 	{
       "stages": [
         {"number": "263", "name": "Zigzagoon", "candy": 0},
-        {"number": "264", "name": "Linoone", "candy": 0}
+        {"number": "264", "name": "Linoone", "candy": 50}
       ]
     },
 	{
       "stages": [
         {"number": "265", "name": "Wurmple", "candy": 0},
-        {"number": "266", "name": "Silcoon", "candy": 0},
-        {"number": "267", "name": "Beautifly", "candy": 0}
+        {"number": "266", "name": "Silcoon", "candy": 12},
+        {"number": "267", "name": "Beautifly", "candy": 50}
       ]
     },
 	{
       "stages": [
         {"number": "265", "name": "Wurmple", "candy": 0},
-        {"number": "268", "name": "Cascoon", "candy": 0},
-        {"number": "269", "name": "Dustox", "candy": 0}
+        {"number": "268", "name": "Cascoon", "candy": 12},
+        {"number": "269", "name": "Dustox", "candy": 50}
       ]
     },
 	{
@@ -912,8 +912,8 @@
 	{
       "stages": [
         {"number": "280", "name": "Ralts", "candy": 0},
-        {"number": "281", "name": "Kirlia", "candy": 0},
-        {"number": "282", "name": "Gardevoir", "candy": 0}
+        {"number": "281", "name": "Kirlia", "candy": 25},
+        {"number": "282", "name": "Gardevoir", "candy": 100}
       ]
     },
 	{
@@ -925,14 +925,14 @@
 	{
       "stages": [
         {"number": "285", "name": "Shroomish", "candy": 0},
-        {"number": "286", "name": "Breloom", "candy": 0}
+        {"number": "286", "name": "Breloom", "candy": 50}
       ]
     },
 	{
       "stages": [
         {"number": "287", "name": "Slakoth", "candy": 0},
-        {"number": "288", "name": "Vigoroth", "candy": 0},
-        {"number": "289", "name": "Slaking", "candy": 0}
+        {"number": "288", "name": "Vigoroth", "candy": 25},
+        {"number": "289", "name": "Slaking", "candy": 100}
       ]
     },
 	{
@@ -957,7 +957,7 @@
 	{
       "stages": [
         {"number": "296", "name": "Makuhita", "candy": 0},
-        {"number": "297", "name": "Hariyama", "candy": 0}
+        {"number": "297", "name": "Hariyama", "candy": 50}
       ]
     },
 	{
@@ -969,7 +969,7 @@
 	{
       "stages": [
         {"number": "300", "name": "Skitty", "candy": 0},
-        {"number": "301", "name": "Delcatty", "candy": 0}
+        {"number": "301", "name": "Delcatty", "candy": 50}
       ]
     },
 	{
@@ -992,13 +992,13 @@
 	{
       "stages": [
         {"number": "307", "name": "Meditite", "candy": 0},
-        {"number": "308", "name": "Medicham", "candy": 0}
+        {"number": "308", "name": "Medicham", "candy": 50}
       ]
     },
 	{
       "stages": [
         {"number": "309", "name": "Electrike", "candy": 0},
-        {"number": "310", "name": "Manectric", "candy": 0}
+        {"number": "310", "name": "Manectric", "candy": 50}
       ]
     },
 	{
@@ -1031,19 +1031,19 @@
 	{
       "stages": [
         {"number": "316", "name": "Gulpin", "candy": 0},
-        {"number": "317", "name": "Swalot", "candy": 0}
+        {"number": "317", "name": "Swalot", "candy": 50}
       ]
     },
 	{
       "stages": [
         {"number": "318", "name": "Carvanha", "candy": 0},
-        {"number": "319", "name": "Sharpedo", "candy": 0}
+        {"number": "319", "name": "Sharpedo", "candy": 50}
       ]
     },
 	{
       "stages": [
         {"number": "320", "name": "Wailmer", "candy": 0},
-        {"number": "321", "name": "Wailord", "candy": 0}
+        {"number": "321", "name": "Wailord", "candy": 400}
       ]
     },
 	{
@@ -1060,7 +1060,7 @@
 	{
       "stages": [
         {"number": "325", "name": "Spoink", "candy": 0},
-        {"number": "326", "name": "Grumpig", "candy": 0}
+        {"number": "326", "name": "Grumpig", "candy": 50}
       ]
     },
 	{
@@ -1116,7 +1116,7 @@
 	{
       "stages": [
         {"number": "341", "name": "Corphish", "candy": 0},
-        {"number": "342", "name": "Crawdaunt", "candy": 0}
+        {"number": "342", "name": "Crawdaunt", "candy": 50}
       ]
     },
 	{
@@ -1156,13 +1156,13 @@
 	{
       "stages": [
         {"number": "353", "name": "Shuppet", "candy": 0},
-        {"number": "354", "name": "Banette", "candy": 0}
+        {"number": "354", "name": "Banette", "candy": 50}
       ]
     },
 	{
       "stages": [
         {"number": "355", "name": "Duskull", "candy": 0},
-        {"number": "356", "name": "Dusclops", "candy": 0},
+        {"number": "356", "name": "Dusclops", "candy": 50},
 		{"number": "477", "name": "Dusknoir", "candy": 0}
       ]
     },
@@ -1191,8 +1191,8 @@
 	{
       "stages": [
         {"number": "363", "name": "Spheal", "candy": 0},
-        {"number": "364", "name": "Sealeo", "candy": 0},
-        {"number": "365", "name": "Walrein", "candy": 0}
+        {"number": "364", "name": "Sealeo", "candy": 25},
+        {"number": "365", "name": "Walrein", "candy": 100}
       ]
     },
 	{
