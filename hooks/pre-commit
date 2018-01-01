@@ -7,4 +7,4 @@ jsonlint -q pokemon.json
 # Regenerate the docs folder
 (cd docs && make)
 
-git add docs
+git add --update docs
