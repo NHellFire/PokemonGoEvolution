@@ -1,6 +1,6 @@
 all: index.html
 
-Table.html: ../pokemon.json
+Table.html: ../pokemon.json ../compile.js ../Table.hbs
 	cd .. && node compile.js
 	mv ../Table.html .
 
@@ -10,4 +10,7 @@ index.html: index.html.in Table.html
 clean:
 	$(RM) index.html Table.html
 
-.PHONY: all
+test:
+	php -S 0.0.0.0:3333
+
+.PHONY: all clean test
