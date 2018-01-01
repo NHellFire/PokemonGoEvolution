@@ -1,0 +1,10 @@
+#!/bin/bash
+set -e
+
+# Validate the JSON
+jsonlint -q pokemon.json
+
+# Regenerate the docs folder
+(cd docs && make)
+
+git add docs
