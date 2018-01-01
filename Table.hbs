@@ -1,15 +1,15 @@
 <table cellpadding="0" cellspacing="0">
   <thead>
     <tr>
-      <th colspan="4">
+      <th colspan="3">
         Stage 1
       </th>
       <th></th>
-      <th colspan="4">
+      <th colspan="3">
         Stage 2
       </th>
       <th></th>
-      <th colspan="4">
+      <th colspan="3">
         Stage 3
       </th>
     </tr>
@@ -17,25 +17,29 @@
       <th>No.</th>
       <th>Photo</th>
       <th>Name</th>
-      <th>Candy</th>
       <th></th>
 
       <th>No.</th>
       <th>Photo</th>
       <th>Name</th>
-      <th>Candy</th>
       <th></th>
 
       <th>No.</th>
       <th>Photo</th>
       <th>Name</th>
-      <th>Candy</th>
     </tr>
   </thead>
   <tbody>
     {{#each species}}
     <tr>
       {{#each stages}}
+      {{#unless @first}}
+      <td>
+        <span class="arrow">&#8594;</span><br>
+        {{candy}} candy
+      </td>
+      {{/unless}}
+
       <td>
         #{{number}}
       </td>
@@ -49,14 +53,6 @@
           {{name}}
         </a>
       </td>
-      <td>
-        {{candy}}
-      </td>
-      {{#unless @last}}
-        <td class="arrow">
-          &#8594;
-        </td>
-      {{/unless}}
       {{/each}}
     </tr>
     {{/each}}
