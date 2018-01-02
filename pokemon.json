@@ -121,6 +121,13 @@
         {"number": "045", "name": "Vileplume", "candy": 100}
       ]
     },
+	{
+      "stages": [
+        {"number": "043", "name": "Oddish", "candy": 0},
+        {"number": "044", "name": "Gloom", "candy": 25},
+        {"number": "182", "name": "Bellossom", "candy": 100, "item": "Sun Stone"}
+      ]
+    },
     {
       "stages": [
         {"number": "046", "name": "Paras", "candy": 0},
@@ -170,6 +177,13 @@
         {"number": "062", "name": "Poliwrath", "candy": 100}
       ]
     },
+	{
+      "stages": [
+        {"number": "060", "name": "Poliwag", "candy": 0},
+        {"number": "061", "name": "Poliwhirl", "candy": 25},
+        {"number": "186", "name": "Politoed", "candy": 100, "item": "King's Rock"}
+      ]
+    },
     {
       "stages": [
         {"number": "063", "name": "Abra", "candy": 0},
@@ -214,6 +228,12 @@
       "stages": [
         {"number": "079", "name": "Slowpoke", "candy": 0},
         {"number": "080", "name": "Slowbro", "candy": 50}
+      ]
+    },
+	{
+      "stages": [
+        {"number": "079", "name": "Slowpoke", "candy": 0},
+        {"number": "199", "name": "Slowking", "candy": 50, "item": "King's Rock"}
       ]
     },
     {
@@ -439,6 +459,36 @@
         {"number": "136", "name": "Flareon", "candy": 25}
       ]
     },
+	{
+      "stages": [
+        {"number": "133", "name": "Eevee", "candy": 0},
+        {"number": "196", "name": "Espeon", "candy": 25}
+      ]
+    },
+	{
+      "stages": [
+        {"number": "133", "name": "Eevee", "candy": 0},
+        {"number": "197", "name": "Umbreon", "candy": 25}
+      ]
+    },
+	{
+      "stages": [
+        {"number": "133", "name": "Eevee", "candy": 0},
+        {"number": "470", "name": "Leafeon", "candy": 0}
+      ]
+    },
+	{
+      "stages": [
+        {"number": "133", "name": "Eevee", "candy": 0},
+        {"number": "471", "name": "Glaceon", "candy": 0}
+      ]
+    },
+	{
+      "stages": [
+        {"number": "133", "name": "Eevee", "candy": 0},
+        {"number": "700", "name": "Sylveon", "candy": 0}
+      ]
+    },
     {
       "stages": [
         {"number": "137", "name": "Porygon", "candy": 0},
@@ -574,13 +624,6 @@
     },
 	{
       "stages": [
-        {"number": "043", "name": "Oddish", "candy": 0},
-        {"number": "044", "name": "Gloom", "candy": 25},
-        {"number": "182", "name": "Bellossom", "candy": 100, "item": "Sun Stone"}
-      ]
-    },
-	{
-      "stages": [
         {"number": "298", "name": "Azurill", "candy": 0},
         {"number": "183", "name": "Marill", "candy": 0},
         {"number": "184", "name": "Azumarill", "candy": 25}
@@ -590,13 +633,6 @@
       "stages": [
         {"number": "438", "name": "Bonsly", "candy": 0},
         {"number": "185", "name": "Sudowoodo", "candy": 0}
-      ]
-    },
-	{
-      "stages": [
-        {"number": "060", "name": "Poliwag", "candy": 0},
-        {"number": "061", "name": "Poliwhirl", "candy": 25},
-        {"number": "186", "name": "Politoed", "candy": 100, "item": "King's Rock"}
       ]
     },
 	{
@@ -632,26 +668,8 @@
     },
 	{
       "stages": [
-        {"number": "133", "name": "Eevee", "candy": 0},
-        {"number": "196", "name": "Espeon", "candy": 25}
-      ]
-    },
-	{
-      "stages": [
-        {"number": "133", "name": "Eevee", "candy": 0},
-        {"number": "197", "name": "Umbreon", "candy": 25}
-      ]
-    },
-	{
-      "stages": [
         {"number": "198", "name": "Murkrow", "candy": 0},
 		{"number": "430", "name": "Honchkrow", "candy": 0}
-      ]
-    },
-	{
-      "stages": [
-        {"number": "079", "name": "Slowpoke", "candy": 0},
-        {"number": "199", "name": "Slowking", "candy": 50, "item": "King's Rock"}
       ]
     },
 	{
@@ -914,6 +932,13 @@
         {"number": "280", "name": "Ralts", "candy": 0},
         {"number": "281", "name": "Kirlia", "candy": 25},
         {"number": "282", "name": "Gardevoir", "candy": 100}
+      ]
+    },
+	{
+      "stages": [
+        {"number": "280", "name": "Ralts (Male)", "candy": 0},
+        {"number": "281", "name": "Kirlia (Male)", "candy": 0},
+        {"number": "475", "name": "Gallade (Male)", "candy": 0}
       ]
     },
 	{
@@ -1186,6 +1211,12 @@
       "stages": [
         {"number": "361", "name": "Snorunt", "candy": 0},
         {"number": "362", "name": "Glalie", "candy": 0}
+      ]
+    },
+	{
+      "stages": [
+        {"number": "361", "name": "Snorunt", "candy": 0},
+        {"number": "478", "name": "Froslass", "candy": 0}
       ]
     },
 	{
@@ -1467,31 +1498,6 @@
       "stages": [
         {"number": "459", "name": "Snover", "candy": 0},
         {"number": "460", "name": "Abomasnow", "candy": 0}
-      ]
-    },
-	{
-      "stages": [
-        {"number": "133", "name": "Eevee", "candy": 0},
-        {"number": "470", "name": "Leafeon", "candy": 0}
-      ]
-    },
-	{
-      "stages": [
-        {"number": "133", "name": "Eevee", "candy": 0},
-        {"number": "471", "name": "Glaceon", "candy": 0}
-      ]
-    },
-	{
-      "stages": [
-        {"number": "280", "name": "Ralts (Male)", "candy": 0},
-        {"number": "281", "name": "Kirlia (Male)", "candy": 0},
-        {"number": "475", "name": "Gallade (Male)", "candy": 0}
-      ]
-    },
-	{
-      "stages": [
-        {"number": "361", "name": "Snorunt", "candy": 0},
-        {"number": "478", "name": "Froslass", "candy": 0}
       ]
     },
 	{
@@ -2189,12 +2195,6 @@
       "stages": [
         {"number": "698", "name": "Amaura", "candy": 0},
         {"number": "699", "name": "Aurorus", "candy": 0}
-      ]
-    },
-	{
-      "stages": [
-        {"number": "133", "name": "Eevee", "candy": 0},
-        {"number": "700", "name": "Sylveon", "candy": 0}
       ]
     },
 	{
