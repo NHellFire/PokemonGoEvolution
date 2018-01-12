@@ -1,6 +1,59 @@
-table {
+body {
+	background: DimGrey;
+}
+
+.arrow-container {
+	height: 32px;
+	width: 74px;
+	display: inline-block;
+}
+
+.arrow {
+	display: block;
+	position: relative;
+	width: 50px;
+	height: 20px;
+	background: #000000;
+	top: 6px;
+}
+
+.arrow:after {
+	width: 0;
+	height: 0;
+	border-style: solid;
+	border-width: 16px 0 16px 24px;
+	border-color: transparent transparent transparent #000000;
+	position: absolute;
+	left: 50px;
+	top: -6px;
+	content: "";
+}
+
+#legend {
+	position: fixed;
+	top: 20px;
+	right: 20px;
+	text-align: left;
+}
+
+.legend-box {
+	display: block;
+	width: 25px;
+	height: 25px;
+}
+
+a {
+	color: #000000;
+	text-decoration: none;
+}
+
+a:hover {
+	text-decoration:  underline;
+}
+
+td, th {
+	padding: 8px;
 	text-align: center;
-	border-spacing: 8px;
 }
 
 table img {
@@ -11,3 +64,50 @@ table img {
 table .arrow {
 	font-size: 18pt;
 }
+
+.gen-1 {
+	background: #FF1111;
+}
+
+.gen-2 {
+	background: #DAA520;
+}
+
+.gen-3 {
+	background: #A00000;
+}
+
+.gen-4 {
+	background: #AAAAFF;
+}
+
+.gen-5 {
+	background: #444444;
+	color: #E1E1E1;
+}
+
+.gen-5 a {
+	color: #E1E1E1;
+}
+
+.gen-5 .arrow {
+	background: #E1E1E1;
+}
+
+.gen-5 .arrow:after {
+	border-color: transparent transparent transparent #E1E1E1;
+}
+
+
+.gen-6 {
+	background: #025DA6;
+}
+
+.gen-7 {
+	background: #F1912B;
+}
+
+#footer {
+	margin-top: 4em;
+}
+

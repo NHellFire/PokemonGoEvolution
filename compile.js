@@ -59,6 +59,16 @@ handlebars.registerHelper("url", function(p) {
 	}
 });
 
+handlebars.registerHelper("generation", function(p) {
+	if (p <= 151) return 1;
+	if (p <= 251) return 2;
+	if (p <= 386) return 3;
+	if (p <= 493) return 4;
+	if (p <= 649) return 5;
+	if (p <= 721) return 6;
+	if (p <= 807) return 7;
+});
+
 fs.readFile('Table.hbs', 'utf8', function (err, Table) {
   if (err) {
     return console.log(err);
