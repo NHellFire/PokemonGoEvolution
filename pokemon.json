@@ -125,7 +125,7 @@
       "stages": [
         {"number": "043", "name": "Oddish", "candy": 0},
         {"number": "044", "name": "Gloom", "candy": 25},
-        {"number": "182", "name": "Bellossom", "candy": 100, "item": "Sun Stone"}
+        {"number": "182", "name": "Bellossom", "candy": 100, "extra": [ "Sun Stone" ]}
       ]
     },
     {
@@ -181,7 +181,7 @@
       "stages": [
         {"number": "060", "name": "Poliwag", "candy": 0},
         {"number": "061", "name": "Poliwhirl", "candy": 25},
-        {"number": "186", "name": "Politoed", "candy": 100, "item": "King's Rock"}
+        {"number": "186", "name": "Politoed", "candy": 100, "extra": [ "King's Rock" ]}
       ]
     },
     {
@@ -233,7 +233,7 @@
     {
       "stages": [
         {"number": "079", "name": "Slowpoke", "candy": 0},
-        {"number": "199", "name": "Slowking", "candy": 50, "item": "King's Rock"}
+        {"number": "199", "name": "Slowking", "candy": 50, "extra": [ "King's Rock" ]}
       ]
     },
     {
@@ -282,7 +282,7 @@
     {
       "stages": [
         {"number": "095", "name": "Onix", "candy": 0},
-        {"number": "208", "name": "Steelix", "candy": 50, "item": "Metal Coat"}
+        {"number": "208", "name": "Steelix", "candy": 50, "extra": [ "Metal Coat" ]}
       ]
     },
     {
@@ -368,7 +368,7 @@
       "stages": [
         {"number": "116", "name": "Horsea", "candy": 0},
         {"number": "117", "name": "Seadra", "candy": 50},
-        {"number": "230", "name": "Kingdra", "candy": 100, "item": "Dragon Scale"}
+        {"number": "230", "name": "Kingdra", "candy": 100, "extra": [ "Dragon Scale" ]}
       ]
     },
     {
@@ -392,7 +392,7 @@
     {
       "stages": [
         {"number": "123", "name": "Scyther", "candy": 0},
-        {"number": "212", "name": "Scizor", "candy": 50, "item": "Metal Coat"}
+        {"number": "212", "name": "Scizor", "candy": 50, "extra": [ "Metal Coat" ]}
       ]
     },
     {
@@ -462,13 +462,13 @@
     {
       "stages": [
         {"number": "133", "name": "Eevee", "candy": 0},
-        {"number": "196", "name": "Espeon", "candy": 25}
+        {"number": "196", "name": "Espeon", "candy": 25, "extra": [ "10k Buddy", "Day" ]}
       ]
     },
     {
       "stages": [
         {"number": "133", "name": "Eevee", "candy": 0},
-        {"number": "197", "name": "Umbreon", "candy": 25}
+        {"number": "197", "name": "Umbreon", "candy": 25, "extra": [ "10k Buddy", "Night" ]}
       ]
     },
     {
@@ -492,7 +492,7 @@
     {
       "stages": [
         {"number": "137", "name": "Porygon", "candy": 0},
-        {"number": "233", "name": "Porygon2", "candy": 50, "item": "Up-Grade"},
+        {"number": "233", "name": "Porygon2", "candy": 50, "extra": [ "Up-Grade" ]},
         {"number": "474", "name": "Porygon-Z", "candy": 0}
       ]
     },
@@ -651,7 +651,7 @@
     {
       "stages": [
         {"number": "191", "name": "Sunkern", "candy": 0},
-        {"number": "192", "name": "Sunflora", "candy": 50, "item": "Sun Stone"}
+        {"number": "192", "name": "Sunflora", "candy": 50, "extra": [ "Sun Stone" ]}
       ]
     },
     {
@@ -904,15 +904,15 @@
     {
       "stages": [
         {"number": "270", "name": "Lotad", "candy": 0},
-        {"number": "271", "name": "Lombre", "candy": 0},
-        {"number": "272", "name": "Ludicolo", "candy": 0}
+        {"number": "271", "name": "Lombre", "candy": 25},
+        {"number": "272", "name": "Ludicolo", "candy": 100}
       ]
     },
     {
       "stages": [
         {"number": "273", "name": "Seedot", "candy": 0},
-        {"number": "274", "name": "Nuzleaf", "candy": 0},
-        {"number": "275", "name": "Shiftry", "candy": 0}
+        {"number": "274", "name": "Nuzleaf", "candy": 25},
+        {"number": "275", "name": "Shiftry", "candy": 100}
       ]
     },
     {
@@ -937,7 +937,7 @@
     {
       "stages": [
         {"number": "280", "name": "Ralts (Male)", "candy": 0},
-        {"number": "281", "name": "Kirlia (Male)", "candy": 0},
+        {"number": "281", "name": "Kirlia (Male)", "candy": 25},
         {"number": "475", "name": "Gallade (Male)", "candy": 0}
       ]
     },
@@ -1165,7 +1165,7 @@
     {
       "stages": [
         {"number": "349", "name": "Feebas", "candy": 0},
-        {"number": "350", "name": "Milotic", "candy": 0}
+        {"number": "350", "name": "Milotic", "candy": 100, "extra": [ "20k Buddy" ]}
       ]
     },
     {
@@ -1210,7 +1210,7 @@
     {
       "stages": [
         {"number": "361", "name": "Snorunt", "candy": 0},
-        {"number": "362", "name": "Glalie", "candy": 0}
+        {"number": "362", "name": "Glalie", "candy": 50}
       ]
     },
     {

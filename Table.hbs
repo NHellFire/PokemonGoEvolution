@@ -39,10 +39,10 @@
 {{#if candy}}
         {{candy}} candy
 {{/if}}
-{{#if item}}
+{{#each extra}}
         <br>+<br>
-        {{item}}
-{{/if}}
+        {{this}}
+{{/each}}
       </td>
       {{/unless}}
 
