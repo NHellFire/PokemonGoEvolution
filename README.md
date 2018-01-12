@@ -1,6 +1,8 @@
 # PokemonGoEvolution
 
-to compile, run 
+to compile, run:
 
+```shell
 npm install
 node compile.js
+```
