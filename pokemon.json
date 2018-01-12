@@ -2277,6 +2277,309 @@
       "stages": [
         {"number": "721", "name": "Volcanion", "candy": 0}
       ]
+    },
+    {
+      "stages": [
+        {"number": "722", "name": "Rowlet", "candy": 0},
+        {"number": "723", "name": "Dartrix", "candy": 0},
+        {"number": "724", "name": "Decidueye", "candy": 0}
+      ]
+    },
+    {
+      "stages": [
+        {"number": "725", "name": "Litten", "candy": 0},
+        {"number": "726", "name": "Torracat", "candy": 0},
+        {"number": "727", "name": "Incineroar", "candy": 0}
+      ]
+    },
+    {
+      "stages": [
+        {"number": "728", "name": "Popplio", "candy": 0},
+        {"number": "729", "name": "Brionne", "candy": 0},
+        {"number": "730", "name": "Primarina", "candy": 0}
+      ]
+    },
+    {
+      "stages": [
+        {"number": "731", "name": "Pikipek", "candy": 0},
+        {"number": "732", "name": "Trumbeak", "candy": 0},
+        {"number": "733", "name": "Toucannon", "candy": 0}
+      ]
+    },
+    {
+      "stages": [
+        {"number": "734", "name": "Yungoos", "candy": 0},
+        {"number": "735", "name": "Gumshoos", "candy": 0}
+      ]
+    },
+    {
+      "stages": [
+        {"number": "736", "name": "Grubbin", "candy": 0},
+        {"number": "737", "name": "Charjabug", "candy": 0},
+        {"number": "738", "name": "Vikavolt", "candy": 0}
+      ]
+    },
+    {
+      "stages": [
+        {"number": "739", "name": "Crabrawler", "candy": 0},
+        {"number": "740", "name": "Crabominable", "candy": 0}
+      ]
+    },
+    {
+      "stages": [
+        {"number": "741", "name": "Oricorio", "candy": 0}
+      ]
+    },
+    {
+      "stages": [
+        {"number": "742", "name": "Cutiefly", "candy": 0},
+        {"number": "743", "name": "Ribombee", "candy": 0}
+      ]
+    },
+    {
+      "stages": [
+        {"number": "744", "name": "Rockruff", "candy": 0},
+        {"number": "745", "name": "Lycanroc", "candy": 0}
+      ]
+    },
+    {
+      "stages": [
+        {"number": "746", "name": "Wishiwashi", "candy": 0}
+      ]
+    },
+    {
+      "stages": [
+        {"number": "747", "name": "Mareanie", "candy": 0},
+        {"number": "748", "name": "Toxapex", "candy": 0}
+      ]
+    },
+    {
+      "stages": [
+        {"number": "749", "name": "Mudbray", "candy": 0},
+        {"number": "750", "name": "Mudsdale", "candy": 0}
+      ]
+    },
+    {
+      "stages": [
+        {"number": "751", "name": "Dewpider", "candy": 0},
+        {"number": "752", "name": "Araquanid", "candy": 0}
+      ]
+    },
+    {
+      "stages": [
+        {"number": "753", "name": "Fomantis", "candy": 0},
+        {"number": "754", "name": "Lurantis", "candy": 0}
+      ]
+    },
+    {
+      "stages": [
+        {"number": "755", "name": "Morelull", "candy": 0},
+        {"number": "756", "name": "Shiinotic", "candy": 0}
+      ]
+    },
+    {
+      "stages": [
+        {"number": "757", "name": "Salandit", "candy": 0},
+        {"number": "758", "name": "Salazzle", "candy": 0}
+      ]
+    },
+    {
+      "stages": [
+        {"number": "759", "name": "Stufful", "candy": 0},
+        {"number": "760", "name": "Bewear", "candy": 0}
+      ]
+    },
+    {
+      "stages": [
+        {"number": "761", "name": "Bounsweet", "candy": 0},
+        {"number": "762", "name": "Steenee", "candy": 0},
+        {"number": "763", "name": "Tsareena", "candy": 0}
+      ]
+    },
+    {
+      "stages": [
+        {"number": "764", "name": "Comfey", "candy": 0}
+      ]
+    },
+    {
+      "stages": [
+        {"number": "765", "name": "Oranguru", "candy": 0}
+      ]
+    },
+    {
+      "stages": [
+        {"number": "766", "name": "Passimian", "candy": 0}
+      ]
+    },
+    {
+      "stages": [
+        {"number": "767", "name": "Wimpod", "candy": 0},
+        {"number": "768", "name": "Golisopod", "candy": 0}
+      ]
+    },
+    {
+      "stages": [
+        {"number": "769", "name": "Sandygast", "candy": 0},
+        {"number": "770", "name": "Palossand", "candy": 0}
+      ]
+    },
+    {
+      "stages": [
+        {"number": "771", "name": "Pyukumuku", "candy": 0}
+      ]
+    },
+    {
+      "stages": [
+        {"number": "772", "name": "Type: Null", "candy": 0},
+        {"number": "773", "name": "Silvally", "candy": 0}
+      ]
+    },
+    {
+      "stages": [
+        {"number": "774", "name": "Minior", "candy": 0}
+      ]
+    },
+    {
+      "stages": [
+        {"number": "775", "name": "Komala", "candy": 0}
+      ]
+    },
+    {
+      "stages": [
+        {"number": "776", "name": "Turtonator", "candy": 0}
+      ]
+    },
+    {
+      "stages": [
+        {"number": "777", "name": "Togedemaru", "candy": 0}
+      ]
+    },
+    {
+      "stages": [
+        {"number": "778", "name": "Mimikyu", "candy": 0}
+      ]
+    },
+    {
+      "stages": [
+        {"number": "779", "name": "Bruxish", "candy": 0}
+      ]
+    },
+    {
+      "stages": [
+        {"number": "780", "name": "Drampa", "candy": 0}
+      ]
+    },
+    {
+      "stages": [
+        {"number": "781", "name": "Dhelmise", "candy": 0}
+      ]
+    },
+    {
+      "stages": [
+        {"number": "782", "name": "Jangmo-o", "candy": 0},
+        {"number": "783", "name": "Hakamo-o", "candy": 0},
+        {"number": "784", "name": "Kommo-o", "candy": 0}
+      ]
+    },
+    {
+      "stages": [
+        {"number": "785", "name": "Tapu Koko", "candy": 0}
+      ]
+    },
+    {
+      "stages": [
+        {"number": "786", "name": "Tapu Lele", "candy": 0}
+      ]
+    },
+    {
+      "stages": [
+        {"number": "787", "name": "Tapu Bulu", "candy": 0}
+      ]
+    },
+    {
+      "stages": [
+        {"number": "788", "name": "Tapu Fini", "candy": 0}
+      ]
+    },
+    {
+      "stages": [
+        {"number": "789", "name": "Cosmog", "candy": 0},
+        {"number": "790", "name": "Cosmoem", "candy": 0},
+        {"number": "791", "name": "Solgaleo", "candy": 0}
+      ]
+    },
+    {
+      "stages": [
+        {"number": "789", "name": "Cosmog", "candy": 0},
+        {"number": "790", "name": "Cosmoem", "candy": 0},
+        {"number": "791", "name": "Solgaleo", "candy": 0}
+      ]
+    },
+    {
+      "stages": [
+        {"number": "793", "name": "Nihilego", "candy": 0}
+      ]
+    },
+    {
+      "stages": [
+        {"number": "794", "name": "Buzzwole", "candy": 0}
+      ]
+    },
+    {
+      "stages": [
+        {"number": "795", "name": "Pheromosa", "candy": 0}
+      ]
+    },
+    {
+      "stages": [
+        {"number": "796", "name": "Xurkitree", "candy": 0}
+      ]
+    },
+    {
+      "stages": [
+        {"number": "797", "name": "Celesteela", "candy": 0}
+      ]
+    },
+    {
+      "stages": [
+        {"number": "798", "name": "Kartana", "candy": 0}
+      ]
+    },
+    {
+      "stages": [
+        {"number": "799", "name": "Guzzlord", "candy": 0}
+      ]
+    },
+    {
+      "stages": [
+        {"number": "800", "name": "Necrozma", "candy": 0}
+      ]
+    },
+    {
+      "stages": [
+        {"number": "801", "name": "Magearna", "candy": 0}
+      ]
+    },
+    {
+      "stages": [
+        {"number": "802", "name": "Marshadow", "candy": 0}
+      ]
+    },
+    {
+      "stages": [
+        {"number": "803", "name": "Poipole", "candy": 0},
+        {"number": "804", "name": "Naganadel", "candy": 0}
+      ]
+    },
+    {
+      "stages": [
+        {"number": "805", "name": "Stakataka", "candy": 0}
+      ]
+    },
+    {
+      "stages": [
+        {"number": "806", "name": "Blacephalon", "candy": 0}
+      ]
     }
   ]
 }
