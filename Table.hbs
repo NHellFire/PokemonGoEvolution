@@ -34,8 +34,8 @@
     <tr>
       {{#each stages}}
       {{#unless @first}}
-      <td>
-        <span class="arrow">&#8594;</span><br>
+      <td class="gen-{{generation number}}">
+        <span class="arrow-container"><span class="arrow"></span></span><br>
 {{#if candy}}
         {{candy}} candy
 {{/if}}
@@ -46,15 +46,15 @@
       </td>
       {{/unless}}
 
-      <td>
+      <td class="gen-{{generation number}}">
         #{{number}}
       </td>
-      <td>
+      <td class="gen-{{generation number}}">
         <a href="https://pokemondb.net/pokedex/{{url name}}" target="_blank">
-          <img src="https://img.pokemondb.net/artwork/{{icon name}}.jpg" title="{{name}}"/>
+          <img src="https://assets.pokemon.com/assets/cms2/img/pokedex/full/{{number}}.png" title="{{name}}"/>
         </a>
       </td>
-      <td>
+      <td class="gen-{{generation number}}">
         <a href="https://pokemondb.net/pokedex/{{url name}}" target="_blank">
           {{name}}
         </a>
