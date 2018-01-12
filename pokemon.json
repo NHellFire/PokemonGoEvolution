@@ -625,7 +625,7 @@
     {
       "stages": [
         {"number": "298", "name": "Azurill", "candy": 0},
-        {"number": "183", "name": "Marill", "candy": 0},
+        {"number": "183", "name": "Marill", "candy": 25},
         {"number": "184", "name": "Azumarill", "candy": 25}
       ]
     },
