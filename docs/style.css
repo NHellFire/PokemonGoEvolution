@@ -29,11 +29,18 @@ body {
 	content: "";
 }
 
-#legend {
-	position: fixed;
-	top: 20px;
-	right: 20px;
-	text-align: left;
+@media screen and (min-aspect-ratio:1/1) {
+	#legend {
+		position: fixed;
+		top: 20px;
+		right: 20px;
+		text-align: left;
+	}
+}
+@media screen and (max-aspect-ratio:1/1) {
+	#legend {
+		padding-bottom: 2em;
+	};
 }
 
 .legend-box {
