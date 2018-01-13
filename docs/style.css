@@ -109,5 +109,13 @@ table .arrow {
 
 #footer {
 	margin-top: 4em;
+	text-align: center;
 }
 
+.middle {
+	vertical-align: middle;
+}
+
+img.middle, img.middle {
+	height: 1em;
+}

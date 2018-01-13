@@ -37,11 +37,11 @@
       <td class="gen-{{generation number}}">
         <span class="arrow-container"><span class="arrow"></span></span><br>
 {{#if candy}}
-        {{candy}} candy
+        <img alt="Candy" class="middle" src="candy.png" /> <span class="middle">{{candy}}</span>
 {{/if}}
 {{#each extra}}
         <br>+<br>
-        {{this}}
+        {{#ifRequiresBuddy this}}<img alt="Walk" class="middle" src="sneaker.png"/> {{/ifRequiresBuddy}}<span class="middle">{{this}}</span>
 {{/each}}
       </td>
       {{/unless}}

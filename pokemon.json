@@ -1165,7 +1165,7 @@
     {
       "stages": [
         {"number": "349", "name": "Feebas", "candy": 0},
-        {"number": "350", "name": "Milotic", "candy": 100, "extra": [ "20k Buddy" ]}
+        {"number": "350", "name": "Milotic", "candy": 100, "extra": [ "20km" ]}
       ]
     },
     {

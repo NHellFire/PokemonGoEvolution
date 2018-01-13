@@ -69,6 +69,11 @@ handlebars.registerHelper("generation", function(p) {
 	if (p <= 807) return 7;
 });
 
+handlebars.registerHelper("ifRequiresBuddy", function(str, options) {
+	if (str.endsWith("km")) return options.fn(this);
+	return options.inverse(this);
+});
+
 fs.readFile('Table.hbs', 'utf8', function (err, Table) {
   if (err) {
     return console.log(err);
