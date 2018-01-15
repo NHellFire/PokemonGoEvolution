@@ -462,13 +462,13 @@
     {
       "stages": [
         {"number": "133", "name": "Eevee", "candy": 0},
-        {"number": "196", "name": "Espeon", "candy": 25, "extra": [ "10k Buddy", "Day" ]}
+        {"number": "196", "name": "Espeon", "candy": 25, "extra": [ "10km", "Day" ]}
       ]
     },
     {
       "stages": [
         {"number": "133", "name": "Eevee", "candy": 0},
-        {"number": "197", "name": "Umbreon", "candy": 25, "extra": [ "10k Buddy", "Night" ]}
+        {"number": "197", "name": "Umbreon", "candy": 25, "extra": [ "10km", "Night" ]}
       ]
     },
     {
