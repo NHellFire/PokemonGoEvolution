@@ -975,8 +975,8 @@
     {
       "stages": [
         {"number": "293", "name": "Whismur", "candy": 0},
-        {"number": "294", "name": "Loudred", "candy": 0},
-        {"number": "295", "name": "Exploud", "candy": 0}
+        {"number": "294", "name": "Loudred", "candy": 12},
+        {"number": "295", "name": "Exploud", "candy": 50}
       ]
     },
     {
@@ -1159,7 +1159,7 @@
     {
       "stages": [
         {"number": "347", "name": "Anorith", "candy": 0},
-        {"number": "348", "name": "Armaldo", "candy": 0}
+        {"number": "348", "name": "Armaldo", "candy": 50}
       ]
     },
     {
