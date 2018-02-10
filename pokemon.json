@@ -924,7 +924,7 @@
     {
       "stages": [
         {"number": "278", "name": "Wingull", "candy": 0},
-        {"number": "279", "name": "Pelipper", "candy": 0}
+        {"number": "279", "name": "Pelipper", "candy": 50}
       ]
     },
     {
@@ -1251,15 +1251,15 @@
     {
       "stages": [
         {"number": "371", "name": "Bagon", "candy": 0},
-        {"number": "372", "name": "Shelgon", "candy": 0},
-        {"number": "373", "name": "Salamence", "candy": 0}
+        {"number": "372", "name": "Shelgon", "candy": 25},
+        {"number": "373", "name": "Salamence", "candy": 100}
       ]
     },
     {
       "stages": [
         {"number": "374", "name": "Beldum", "candy": 0},
-        {"number": "375", "name": "Metang", "candy": 0},
-        {"number": "376", "name": "Metagross", "candy": 0}
+        {"number": "375", "name": "Metang", "candy": 25},
+        {"number": "376", "name": "Metagross", "candy": 100}
       ]
     },
     {
