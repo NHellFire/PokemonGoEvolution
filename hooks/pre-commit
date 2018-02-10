@@ -2,11 +2,19 @@
 set -e
 
 files=$(git diff --staged --name-only)
+regen=0
 
 if [[ "$files" = *"pokemon.json"* ]]; then
 	# Validate the JSON
 	jsonlint -q pokemon.json
+	regen=1
+fi
 
+if [[ "$files" = *"index.html.in"* ]]; then
+	regen=1
+fi
+
+if [ "$regen" = "1" ]; then
 	# Regenerate the docs folder
 	(cd docs && make)
 

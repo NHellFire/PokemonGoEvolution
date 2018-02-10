@@ -7,12 +7,12 @@
 <body>
 <table id="legend">
 <tr><td class="legend-box gen-1"/><td>Generation I</td></tr>
-<tr><td class="legend-box gen-2"/><td>Generation II</td>
-<tr><td class="legend-box gen-3"/><td>Generation III</td>
-<tr><td class="legend-box gen-4"/><td>Generation IV</td>
-<tr><td class="legend-box gen-5"/><td>Generation V</td>
-<tr><td class="legend-box gen-6"/><td>Generation VI</td>
-<tr><td class="legend-box gen-7"/><td>Generation VII</td>
+<tr><td class="legend-box gen-2"/><td>Generation II</td></tr>
+<tr><td class="legend-box gen-3"/><td>Generation III</td></tr>
+<tr><td class="legend-box gen-4"/><td>Generation IV</td></tr>
+<tr><td class="legend-box gen-5"/><td>Generation V</td></tr>
+<tr><td class="legend-box gen-6"/><td>Generation VI</td></tr>
+<tr><td class="legend-box gen-7"/><td>Generation VII</td></tr>
 </table>
 ##TABLE##
 

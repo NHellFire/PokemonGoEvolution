@@ -43,6 +43,10 @@ body {
 	};
 }
 
+#legend td {
+	text-align: left;
+}
+
 .legend-box {
 	display: block;
 	width: 25px;
