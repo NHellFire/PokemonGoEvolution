@@ -918,7 +918,7 @@
     {
       "stages": [
         {"number": "276", "name": "Taillow", "candy": 0},
-        {"number": "277", "name": "Swellow", "candy": 0}
+        {"number": "277", "name": "Swellow", "candy": 50}
       ]
     },
     {
@@ -944,7 +944,7 @@
     {
       "stages": [
         {"number": "283", "name": "Surskit", "candy": 0},
-        {"number": "284", "name": "Masquerain", "candy": 0}
+        {"number": "284", "name": "Masquerain", "candy": 50}
       ]
     },
     {
@@ -1109,7 +1109,7 @@
     {
       "stages": [
         {"number": "333", "name": "Swablu", "candy": 0},
-        {"number": "334", "name": "Altaria", "candy": 0}
+        {"number": "334", "name": "Altaria", "candy": 400}
       ]
     },
     {
