@@ -975,8 +975,8 @@
     {
       "stages": [
         {"number": "293", "name": "Whismur", "candy": 0},
-        {"number": "294", "name": "Loudred", "candy": 0},
-        {"number": "295", "name": "Exploud", "candy": 0}
+        {"number": "294", "name": "Loudred", "candy": 12},
+        {"number": "295", "name": "Exploud", "candy": 50}
       ]
     },
     {
@@ -1010,8 +1010,8 @@
     {
       "stages": [
         {"number": "304", "name": "Aron", "candy": 0},
-        {"number": "305", "name": "Lairon", "candy": 0},
-        {"number": "306", "name": "Aggron", "candy": 0}
+        {"number": "305", "name": "Lairon", "candy": 25},
+        {"number": "306", "name": "Aggron", "candy": 100}
       ]
     },
     {
@@ -1074,7 +1074,7 @@
     {
       "stages": [
         {"number": "322", "name": "Numel", "candy": 0},
-        {"number": "323", "name": "Camerupt", "candy": 0}
+        {"number": "323", "name": "Camerupt", "candy": 50}
       ]
     },
     {
@@ -1096,14 +1096,14 @@
     {
       "stages": [
         {"number": "328", "name": "Trapinch", "candy": 0},
-        {"number": "329", "name": "Vibrava", "candy": 0},
-        {"number": "330", "name": "Flygon", "candy": 0}
+        {"number": "329", "name": "Vibrava", "candy": 25},
+        {"number": "330", "name": "Flygon", "candy": 100}
       ]
     },
     {
       "stages": [
         {"number": "331", "name": "Cacnea", "candy": 0},
-        {"number": "332", "name": "Cacturne", "candy": 0}
+        {"number": "332", "name": "Cacturne", "candy": 50}
       ]
     },
     {
@@ -1147,19 +1147,19 @@
     {
       "stages": [
         {"number": "343", "name": "Baltoy", "candy": 0},
-        {"number": "344", "name": "Claydol", "candy": 0}
+        {"number": "344", "name": "Claydol", "candy": 50}
       ]
     },
     {
       "stages": [
         {"number": "345", "name": "Lileep", "candy": 0},
-        {"number": "346", "name": "Cradily", "candy": 0}
+        {"number": "346", "name": "Cradily", "candy": 50}
       ]
     },
     {
       "stages": [
         {"number": "347", "name": "Anorith", "candy": 0},
-        {"number": "348", "name": "Armaldo", "candy": 0}
+        {"number": "348", "name": "Armaldo", "candy": 50}
       ]
     },
     {

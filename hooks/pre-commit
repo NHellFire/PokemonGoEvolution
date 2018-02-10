@@ -1,10 +1,14 @@
 #!/bin/bash
 set -e
 
-# Validate the JSON
-jsonlint -q pokemon.json
+files=$(git diff --staged --name-only)
 
-# Regenerate the docs folder
-(cd docs && make)
+if [[ "$files" = *"pokemon.json"* ]]; then
+	# Validate the JSON
+	jsonlint -q pokemon.json
 
-git add --update docs
+	# Regenerate the docs folder
+	(cd docs && make)
+
+	git add --update docs
+fi
