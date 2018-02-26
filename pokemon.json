@@ -686,7 +686,7 @@
     {
       "stages": [
         {"number": "360", "name": "Wynaut", "candy": 0},
-        {"number": "202", "name": "Wobbuffet", "candy": 0}
+        {"number": "202", "name": "Wobbuffet", "candy": 25}
       ]
     },
     {

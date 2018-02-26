@@ -1,5 +1,5 @@
 <?php
-$last_dex = 383;
+$last_dex = 384;
 $data = file_get_contents("pokemon.json");
 $json = json_decode($data, TRUE);
 
