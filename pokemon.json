@@ -1315,48 +1315,48 @@
     {
       "stages": [
         {"number": "387", "name": "Turtwig", "candy": 0},
-        {"number": "388", "name": "Grotle", "candy": 0},
-        {"number": "389", "name": "Torterra", "candy": 0}
+        {"number": "388", "name": "Grotle", "candy": 25},
+        {"number": "389", "name": "Torterra", "candy": 100}
       ]
     },
     {
       "stages": [
         {"number": "390", "name": "Chimchar", "candy": 0},
-        {"number": "391", "name": "Monferno", "candy": 0},
-        {"number": "392", "name": "Infernape", "candy": 0}
+        {"number": "391", "name": "Monferno", "candy": 25},
+        {"number": "392", "name": "Infernape", "candy": 100}
       ]
     },
     {
       "stages": [
         {"number": "393", "name": "Piplup", "candy": 0},
-        {"number": "394", "name": "Prinplup", "candy": 0},
-        {"number": "395", "name": "Empoleon", "candy": 0}
+        {"number": "394", "name": "Prinplup", "candy": 25},
+        {"number": "395", "name": "Empoleon", "candy": 100}
       ]
     },
     {
       "stages": [
         {"number": "396", "name": "Starly", "candy": 0},
-        {"number": "397", "name": "Staravia", "candy": 0},
-        {"number": "398", "name": "Staraptor", "candy": 0}
+        {"number": "397", "name": "Staravia", "candy": 25},
+        {"number": "398", "name": "Staraptor", "candy": 100}
       ]
     },
     {
       "stages": [
         {"number": "399", "name": "Bidoof", "candy": 0},
-        {"number": "400", "name": "Bibarel", "candy": 0}
+        {"number": "400", "name": "Bibarel", "candy": 50}
       ]
     },
     {
       "stages": [
         {"number": "401", "name": "Kricketot", "candy": 0},
-        {"number": "402", "name": "Kricketune", "candy": 0}
+        {"number": "402", "name": "Kricketune", "candy": 50}
       ]
     },
     {
       "stages": [
         {"number": "403", "name": "Shinx", "candy": 0},
-        {"number": "404", "name": "Luxio", "candy": 0},
-        {"number": "405", "name": "Luxray", "candy": 0}
+        {"number": "404", "name": "Luxio", "candy": 25},
+        {"number": "405", "name": "Luxray", "candy": 100}
       ]
     },
     {
@@ -1415,13 +1415,13 @@
     {
       "stages": [
         {"number": "425", "name": "Drifloon", "candy": 0},
-        {"number": "426", "name": "Drifblim", "candy": 0}
+        {"number": "426", "name": "Drifblim", "candy": 50}
       ]
     },
     {
       "stages": [
         {"number": "427", "name": "Buneary", "candy": 0},
-        {"number": "428", "name": "Lopunny", "candy": 0}
+        {"number": "428", "name": "Lopunny", "candy": 50}
       ]
     },
     {
@@ -1433,7 +1433,7 @@
     {
       "stages": [
         {"number": "434", "name": "Stunky", "candy": 0},
-        {"number": "435", "name": "Skuntank", "candy": 0}
+        {"number": "435", "name": "Skuntank", "candy": 50}
       ]
     },
     {
