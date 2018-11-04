@@ -968,7 +968,6 @@
     },
     {
       "stages": [
-        {"number": "290", "name": "Nincada", "candy": 0},
         {"number": "292", "name": "Shedinja", "candy": 0}
       ]
     },
