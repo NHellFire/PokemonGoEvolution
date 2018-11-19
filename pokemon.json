@@ -343,7 +343,7 @@
       "stages": [
         {"number": "111", "name": "Rhyhorn", "candy": 0},
         {"number": "112", "name": "Rhydon", "candy": 50},
-        {"number": "464", "name": "Rhyperior", "candy": 0}
+        {"number": "464", "name": "Rhyperior", "candy": 100, "extra": [ "Sinnoh Stone" ]}
       ]
     },
     {
@@ -405,14 +405,14 @@
       "stages": [
         {"number": "239", "name": "Elekid", "candy": 0},
         {"number": "125", "name": "Electabuzz", "candy": 25},
-        {"number": "466", "name": "Electivire", "candy": 0}
+        {"number": "466", "name": "Electivire", "candy": 100, "extra": [ "Sinnoh Stone" ]}
       ]
     },
     {
       "stages": [
         {"number": "240", "name": "Magby", "candy": 0},
         {"number": "126", "name": "Magmar", "candy": 25},
-        {"number": "467", "name": "Magmortar", "candy": 0}
+        {"number": "467", "name": "Magmortar", "candy": 100, "extra": [ "Sinnoh Stone" ]}
       ]
     },
     {
@@ -493,7 +493,7 @@
       "stages": [
         {"number": "137", "name": "Porygon", "candy": 0},
         {"number": "233", "name": "Porygon2", "candy": 50, "extra": [ "Up-Grade" ]},
-        {"number": "474", "name": "Porygon-Z", "candy": 0}
+        {"number": "474", "name": "Porygon-Z", "candy": 100, "extra": [ "Sinnoh Stone" ]}
       ]
     },
     {
@@ -606,7 +606,7 @@
       "stages": [
         {"number": "175", "name": "Togepi", "candy": 0},
         {"number": "176", "name": "Togetic", "candy": 50},
-        {"number": "468", "name": "Togekiss", "candy": 0}
+        {"number": "468", "name": "Togekiss", "candy": 100, "extra": [ "Sinnoh Stone" ]}
       ]
     },
     {
@@ -669,13 +669,13 @@
     {
       "stages": [
         {"number": "198", "name": "Murkrow", "candy": 0},
-        {"number": "430", "name": "Honchkrow", "candy": 0}
+        {"number": "430", "name": "Honchkrow", "candy": 100, "extra": [ "Sinnoh Stone" ]}
       ]
     },
     {
       "stages": [
         {"number": "200", "name": "Misdreavus", "candy": 0},
-        {"number": "429", "name": "Mismagius", "candy": 0}
+        {"number": "429", "name": "Mismagius", "candy": 100, "extra": [ "Sinnoh Stone" ]}
       ]
     },
     {
@@ -708,7 +708,7 @@
     {
       "stages": [
         {"number": "207", "name": "Gligar", "candy": 0},
-        {"number": "472", "name": "Gliscor", "candy": 0}
+        {"number": "472", "name": "Gliscor", "candy": 100, "extra": [ "Sinnoh Stone" ]}
       ]
     },
     {
@@ -735,7 +735,7 @@
     {
       "stages": [
         {"number": "215", "name": "Sneasel", "candy": 0},
-        {"number": "461", "name": "Weavile", "candy": 0}
+        {"number": "461", "name": "Weavile", "candy": 100, "extra": [ "Sinnoh Stone" ]}
       ]
     },
     {
@@ -963,7 +963,7 @@
     {
       "stages": [
         {"number": "290", "name": "Nincada", "candy": 0},
-        {"number": "291", "name": "Ninjask", "candy": 0}
+        {"number": "291", "name": "Ninjask", "candy": 50}
       ]
     },
     {
@@ -1048,8 +1048,8 @@
     {
       "stages": [
         {"number": "406", "name": "Budew", "candy": 0},
-        {"number": "315", "name": "Roselia", "candy": 0},
-        {"number": "407", "name": "Roserade", "candy": 0}
+        {"number": "315", "name": "Roselia", "candy": 25},
+        {"number": "407", "name": "Roserade", "candy": 100, "extra": [ "Sinnoh Stone" ]}
       ]
     },
     {
@@ -1187,7 +1187,7 @@
       "stages": [
         {"number": "355", "name": "Duskull", "candy": 0},
         {"number": "356", "name": "Dusclops", "candy": 50},
-        {"number": "477", "name": "Dusknoir", "candy": 0}
+        {"number": "477", "name": "Dusknoir", "candy": 100, "extra": [ "Sinnoh Stone" ]}
       ]
     },
     {
