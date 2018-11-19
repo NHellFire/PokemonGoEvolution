@@ -2588,7 +2588,7 @@
     {
       "stages": [
         {"number": "808", "name": "Meltan", "candy": 0},
-        {"number": "809", "name": "Melmetal", "candy": 0}
+        {"number": "809", "name": "Melmetal", "candy": 400}
       ]
     }
   ]
