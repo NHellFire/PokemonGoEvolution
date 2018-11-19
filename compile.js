@@ -66,7 +66,7 @@ handlebars.registerHelper("generation", function(p) {
 	if (p <= 493) return 4;
 	if (p <= 649) return 5;
 	if (p <= 721) return 6;
-	if (p <= 807) return 7;
+	if (p <= 809) return 7;
 });
 
 handlebars.registerHelper("ifRequiresBuddy", function(str, options) {
