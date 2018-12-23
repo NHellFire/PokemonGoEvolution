@@ -1438,7 +1438,7 @@
     {
       "stages": [
         {"number": "436", "name": "Bronzor", "candy": 0},
-        {"number": "437", "name": "Bronzong", "candy": 0}
+        {"number": "437", "name": "Bronzong", "candy": 50}
       ]
     },
     {
