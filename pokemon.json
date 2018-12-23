@@ -1473,13 +1473,13 @@
     {
       "stages": [
         {"number": "451", "name": "Skorupi", "candy": 0},
-        {"number": "452", "name": "Drapion", "candy": 0}
+        {"number": "452", "name": "Drapion", "candy": 50}
       ]
     },
     {
       "stages": [
         {"number": "453", "name": "Croagunk", "candy": 0},
-        {"number": "454", "name": "Toxicroak", "candy": 0}
+        {"number": "454", "name": "Toxicroak", "candy": 50}
       ]
     },
     {
