@@ -516,7 +516,7 @@
     {
     "stages": [
         {"number": "446", "name": "Munchlax", "candy": 0},
-        {"number": "143", "name": "Snorlax", "candy": 0}
+        {"number": "143", "name": "Snorlax", "candy": 50}
       ]
     },
     {
@@ -776,7 +776,7 @@
     {
     "stages": [
         {"number": "458", "name": "Mantyke", "candy": 0},
-        {"number": "226", "name": "Mantine", "candy": 0}
+        {"number": "226", "name": "Mantine", "candy": 50}
       ]
     },
     {
@@ -1396,7 +1396,7 @@
     {
       "stages": [
         {"number": "418", "name": "Buizel", "candy": 0},
-        {"number": "419", "name": "Floatzel", "candy": 0}
+        {"number": "419", "name": "Floatzel", "candy": 50}
       ]
     },
     {
@@ -1461,7 +1461,7 @@
     {
       "stages": [
         {"number": "447", "name": "Riolu", "candy": 0},
-        {"number": "448", "name": "Lucario", "candy": 0}
+        {"number": "448", "name": "Lucario", "candy": 50}
       ]
     },
     {
@@ -1496,7 +1496,7 @@
     {
       "stages": [
         {"number": "459", "name": "Snover", "candy": 0},
-        {"number": "460", "name": "Abomasnow", "candy": 0}
+        {"number": "460", "name": "Abomasnow", "candy": 50}
       ]
     },
     {
