@@ -1490,7 +1490,7 @@
     {
       "stages": [
         {"number": "456", "name": "Finneon", "candy": 0},
-        {"number": "457", "name": "Lumineon", "candy": 0}
+        {"number": "457", "name": "Lumineon", "candy": 50}
       ]
     },
     {
