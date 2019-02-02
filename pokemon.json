@@ -330,7 +330,7 @@
     {
       "stages": [
         {"number": "108", "name": "Lickitung", "candy": 0},
-        {"number": "463", "name": "Lickilicky", "candy": 0}
+        {"number": "463", "name": "Lickilicky", "candy": 100, "extra": [ "Sinnoh Stone" ]}
       ]
     },
     {
@@ -349,14 +349,14 @@
     {
       "stages": [
         {"number": "440", "name": "Happiny", "candy": 0},
-        {"number": "113", "name": "Chansey", "candy": 0},
+        {"number": "113", "name": "Chansey", "candy": 25, "extra": [ "15km" ]},
         {"number": "242", "name": "Blissey", "candy": 50}
       ]
     },
     {
       "stages": [
         {"number": "114", "name": "Tangela", "candy": 0},
-        {"number": "465", "name": "Tangrowth", "candy": 0}
+        {"number": "465", "name": "Tangrowth", "candy": 100, "extra": [ "Sinnoh Stone" ]}
       ]
     },
     {
@@ -386,7 +386,7 @@
     {
     "stages": [
         {"number": "439", "name": "Mime Jr.", "candy": 0},
-        {"number": "122", "name": "Mr. Mime", "candy": 0}
+        {"number": "122", "name": "Mr. Mime", "candy": 50, "extra": [ "15km" ]}
       ]
     },
     {
@@ -632,7 +632,7 @@
     {
       "stages": [
         {"number": "438", "name": "Bonsly", "candy": 0},
-        {"number": "185", "name": "Sudowoodo", "candy": 0}
+        {"number": "185", "name": "Sudowoodo", "candy": 50, "extra": [ "15km" ]}
       ]
     },
     {
@@ -645,7 +645,7 @@
     {
       "stages": [
         {"number": "190", "name": "Aipom", "candy": 0},
-        {"number": "424", "name": "Ambipom", "candy": 0}
+        {"number": "424", "name": "Ambipom", "candy": 100, "extra": [ "Sinnoh Stone" ]}
       ]
     },
     {
@@ -657,7 +657,7 @@
     {
       "stages": [
         {"number": "193", "name": "Yanma", "candy": 0},
-        {"number": "469", "name": "Yanmega", "candy": 0}
+        {"number": "469", "name": "Yanmega", "candy": 100, "extra": [ "Sinnoh Stone" ]}
       ]
     },
     {
@@ -1198,7 +1198,7 @@
     {
       "stages": [
         {"number": "433", "name": "Chingling", "candy": 0},
-        {"number": "358", "name": "Chimecho", "candy": 0}
+        {"number": "358", "name": "Chimecho", "candy": 50}
       ]
     },
     {
@@ -1209,13 +1209,13 @@
     {
       "stages": [
         {"number": "361", "name": "Snorunt", "candy": 0},
-        {"number": "362", "name": "Glalie", "candy": 50}
+        {"number": "362", "name": "Glalie", "candy": 100}
       ]
     },
     {
       "stages": [
         {"number": "361", "name": "Snorunt", "candy": 0},
-        {"number": "478", "name": "Froslass", "candy": 0}
+        {"number": "478", "name": "Froslass (Female)", "candy": 100, "extra": [ "Sinnoh Stone" ]}
       ]
     },
     {
@@ -1385,7 +1385,7 @@
     {
       "stages": [
         {"number": "415", "name": "Combee", "candy": 0},
-        {"number": "416", "name": "Vespiquen", "candy": 0}
+        {"number": "416", "name": "Vespiquen", "candy": 50}
       ]
     },
     {
@@ -1426,7 +1426,7 @@
     {
       "stages": [
         {"number": "431", "name": "Glameow", "candy": 0},
-        {"number": "432", "name": "Purugly", "candy": 0}
+        {"number": "432", "name": "Purugly", "candy": 50}
       ]
     },
     {
