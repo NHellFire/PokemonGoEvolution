@@ -239,7 +239,7 @@
     {
       "stages": [
         {"number": "081", "name": "Magnemite", "candy": 0},
-        {"number": "082", "name": "Magneton", "candy": 50},
+        {"number": "082", "name": "Magneton", "candy": 25},
         {"number": "462", "name": "Magnezone", "candy": 100, "extra": [ "Magnetic Lure" ]}
       ]
     },
