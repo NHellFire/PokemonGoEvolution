@@ -240,7 +240,7 @@
       "stages": [
         {"number": "081", "name": "Magnemite", "candy": 0},
         {"number": "082", "name": "Magneton", "candy": 50},
-        {"number": "462", "name": "Magnezone", "candy": 0}
+        {"number": "462", "name": "Magnezone", "candy": 100, "extra": [ "Magnetic Lure" ]}
       ]
     },
     {
@@ -474,13 +474,13 @@
     {
       "stages": [
         {"number": "133", "name": "Eevee", "candy": 0},
-        {"number": "470", "name": "Leafeon", "candy": 0}
+        {"number": "470", "name": "Leafeon", "candy": 25, "extra": [ "Mossy Lure" ]}
       ]
     },
     {
       "stages": [
         {"number": "133", "name": "Eevee", "candy": 0},
-        {"number": "471", "name": "Glaceon", "candy": 0}
+        {"number": "471", "name": "Glaceon", "candy": 25, "extra": [ "Glacial Lure" ]}
       ]
     },
     {
@@ -754,7 +754,7 @@
       "stages": [
         {"number": "220", "name": "Swinub", "candy": 0},
         {"number": "221", "name": "Piloswine", "candy": 50},
-        {"number": "473", "name": "Mamoswine", "candy": 0}
+        {"number": "473", "name": "Mamoswine", "candy": 100, "extra": [ "Sinnoh Stone" ]}
       ]
     },
     {
@@ -938,7 +938,7 @@
       "stages": [
         {"number": "280", "name": "Ralts (Male)", "candy": 0},
         {"number": "281", "name": "Kirlia (Male)", "candy": 25},
-        {"number": "475", "name": "Gallade (Male)", "candy": 0}
+        {"number": "475", "name": "Gallade (Male)", "candy": 100, "extra": [ "Sinnoh Stone" ]}
       ]
     },
     {
@@ -987,7 +987,7 @@
     {
       "stages": [
         {"number": "299", "name": "Nosepass", "candy": 0},
-        {"number": "476", "name": "Probopass", "candy": 0}
+        {"number": "476", "name": "Probopass", "candy": 100, "extra": [ "Magnetic Lure" ]}
       ]
     },
     {
@@ -1228,13 +1228,13 @@
     {
       "stages": [
         {"number": "366", "name": "Clamperl", "candy": 0},
-        {"number": "367", "name": "Huntail", "candy": 0}
+        {"number": "367", "name": "Huntail", "candy": 50}
       ]
     },
     {
       "stages": [
         {"number": "366", "name": "Clamperl", "candy": 0},
-        {"number": "368", "name": "Gorebyss", "candy": 0}
+        {"number": "368", "name": "Gorebyss", "candy": 50}
       ]
     },
     {
@@ -1361,25 +1361,25 @@
     {
       "stages": [
         {"number": "408", "name": "Cranidos", "candy": 0},
-        {"number": "409", "name": "Rampardos", "candy": 0}
+        {"number": "409", "name": "Rampardos", "candy": 50}
       ]
     },
     {
       "stages": [
         {"number": "410", "name": "Shieldon", "candy": 0},
-        {"number": "411", "name": "Bastiodon", "candy": 0}
+        {"number": "411", "name": "Bastiodon", "candy": 50}
       ]
     },
     {
       "stages": [
-        {"number": "412", "name": "Burmy", "candy": 0},
-        {"number": "413", "name": "Wormadam", "candy": 0}
+        {"number": "412", "name": "Burmy (Female)", "candy": 0},
+        {"number": "413", "name": "Wormadam (Female)", "candy": 50}
       ]
     },
     {
       "stages": [
-        {"number": "412", "name": "Burmy", "candy": 0},
-        {"number": "414", "name": "Mothim", "candy": 0}
+        {"number": "412", "name": "Burmy (Male)", "candy": 0},
+        {"number": "414", "name": "Mothim (Male)", "candy": 50}
       ]
     },
     {
@@ -1402,13 +1402,13 @@
     {
       "stages": [
         {"number": "420", "name": "Cherubi", "candy": 0},
-        {"number": "421", "name": "Cherrim", "candy": 0}
+        {"number": "421", "name": "Cherrim", "candy": 50}
       ]
     },
     {
       "stages": [
         {"number": "422", "name": "Shellos", "candy": 0},
-        {"number": "423", "name": "Gastrodon", "candy": 0}
+        {"number": "423", "name": "Gastrodon", "candy": 50}
       ]
     },
     {
@@ -1454,8 +1454,8 @@
     {
       "stages": [
         {"number": "443", "name": "Gible", "candy": 0},
-        {"number": "444", "name": "Gabite", "candy": 0},
-        {"number": "445", "name": "Garchomp", "candy": 0}
+        {"number": "444", "name": "Gabite", "candy": 25},
+        {"number": "445", "name": "Garchomp", "candy": 100}
       ]
     },
     {
@@ -1467,7 +1467,7 @@
     {
       "stages": [
         {"number": "449", "name": "Hippopotas", "candy": 0},
-        {"number": "450", "name": "Hippowdon", "candy": 0}
+        {"number": "450", "name": "Hippowdon", "candy": 50}
       ]
     },
     {
