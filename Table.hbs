@@ -38,6 +38,10 @@
         <span class="arrow-container"><span class="arrow"></span></span><br>
 {{#if candy}}
         <img alt="Candy" class="middle" src="candy.png" /> <span class="middle">{{candy}}</span>
+    {{#if tradeEvolve}}
+        <br>or<br>
+        <i class="fas fa-sync middle"></i> trade
+    {{/if}}
 {{/if}}
 {{#each extra}}
         <br>+<br>

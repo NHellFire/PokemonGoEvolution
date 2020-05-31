@@ -188,14 +188,14 @@
       "stages": [
         {"number": "063", "name": "Abra", "candy": 0},
         {"number": "064", "name": "Kadabra", "candy": 25},
-        {"number": "065", "name": "Alakazam", "candy": 100}
+        {"number": "065", "name": "Alakazam", "candy": 100, "tradeEvolve": true}
       ]
     },
     {
       "stages": [
         {"number": "066", "name": "Machop", "candy": 0},
         {"number": "067", "name": "Machoke", "candy": 25},
-        {"number": "068", "name": "Machamp", "candy": 100}
+        {"number": "068", "name": "Machamp", "candy": 100, "tradeEvolve": true}
       ]
     },
     {
@@ -215,7 +215,7 @@
       "stages": [
         {"number": "074", "name": "Geodude", "candy": 0},
         {"number": "075", "name": "Graveler", "candy": 25},
-        {"number": "076", "name": "Golem", "candy": 100}
+        {"number": "076", "name": "Golem", "candy": 100, "tradeEvolve": true}
       ]
     },
     {
@@ -276,7 +276,7 @@
       "stages": [
         {"number": "092", "name": "Gastly", "candy": 0},
         {"number": "093", "name": "Haunter", "candy": 25},
-        {"number": "094", "name": "Gengar", "candy": 100}
+        {"number": "094", "name": "Gengar", "candy": 100, "tradeEvolve": true}
       ]
     },
     {
@@ -1660,7 +1660,7 @@
       "stages": [
         {"number": "524", "name": "Roggenrola", "candy": 0},
         {"number": "525", "name": "Boldore", "candy": 25},
-        {"number": "526", "name": "Gigalith", "candy": 100}
+        {"number": "526", "name": "Gigalith", "candy": 100, "tradeEvolve": true}
       ]
     },
     {
@@ -1683,8 +1683,8 @@
     {
       "stages": [
         {"number": "532", "name": "Timburr", "candy": 0},
-        {"number": "533", "name": "Gurdurr", "candy": 25},
-        {"number": "534", "name": "Conkeldurr", "candy": 100}
+        {"number": "533", "name": "Gurdurr", "candy": 50},
+        {"number": "534", "name": "Conkeldurr", "candy": 200, "tradeEvolve": true}
       ]
     },
     {
@@ -1847,7 +1847,7 @@
     {
       "stages": [
         {"number": "588", "name": "Karrablast", "candy": 0},
-        {"number": "589", "name": "Escavalier", "candy": 50}
+        {"number": "589", "name": "Escavalier", "candy": 50, "tradeEvolve": true}
       ]
     },
     {
@@ -1927,7 +1927,7 @@
     {
       "stages": [
         {"number": "616", "name": "Shelmet", "candy": 0},
-        {"number": "617", "name": "Accelgor", "candy": 50}
+        {"number": "617", "name": "Accelgor", "candy": 50, "tradeEvolve": true}
       ]
     },
     {
