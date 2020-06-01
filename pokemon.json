@@ -1847,7 +1847,7 @@
     {
       "stages": [
         {"number": "588", "name": "Karrablast", "candy": 0},
-        {"number": "589", "name": "Escavalier", "candy": 50, "tradeEvolve": true}
+        {"number": "589", "name": "Escavalier", "candy": 200, "tradeEvolve": true}
       ]
     },
     {
@@ -1927,7 +1927,7 @@
     {
       "stages": [
         {"number": "616", "name": "Shelmet", "candy": 0},
-        {"number": "617", "name": "Accelgor", "candy": 50, "tradeEvolve": true}
+        {"number": "617", "name": "Accelgor", "candy": 200, "tradeEvolve": true}
       ]
     },
     {
